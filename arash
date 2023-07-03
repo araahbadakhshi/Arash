@@ -1,0 +1,4 @@
+git clone https://github.com/araahbadakhshi/Arash.git
+cd arash
+ls
+python run. py
